@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "VocabFlip",
+    "slug": "vocabflip",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#1a1a2e",
+    "splash": {
+      "backgroundColor": "#1a1a2e",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lharel.vocabflip"
+    },
+    "android": {
+      "package": "com.lharel.vocabflip"
+    }
+  }
+}
